@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1471890193 source:c:\users\fahad\desktop\fahad\result.cpp
+	<iostream>
+	<windows.h>
+	<queue>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
+1471980451 source:c:\users\fahad\desktop\fahad\admission_test.cpp
+	<iostream>
+	<windows.h>
+	<queue>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
